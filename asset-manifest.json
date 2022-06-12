@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4483a2b2.css",
+    "main.js": "/static/js/main.1f6f52aa.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/sivas.jpg": "/static/media/sivas.05757b985f8ac98ee692.jpg",
+    "static/media/siva.jpg": "/static/media/siva.f380f16a01bf2753cd37.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.4483a2b2.css.map": "/static/css/main.4483a2b2.css.map",
+    "main.1f6f52aa.js.map": "/static/js/main.1f6f52aa.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4483a2b2.css",
+    "static/js/main.1f6f52aa.js"
+  ]
+}
